@@ -1,0 +1,6 @@
+# Core
+Django==4.1.2
+python-decouple==3.6
+
+# Package for PDF
+xhtml2pdf==0.2.8
